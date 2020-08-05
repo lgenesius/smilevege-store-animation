@@ -15,7 +15,7 @@ In this Audio section, users can listen to a song called Sky Sky Sky from Depape
 - Stop (to stop playing a song)<br>
 - Pause (to pause the song)<br>
 - Resume (to continue playing songs)<br>
-- Home (to return to the Home section)<br>
+- Home (to return to the Home section)
 
 b. Profile<br>
 In this section is the Profile of SmileVege, when clicking on the Profile button in the Home section, the user will be displayed animations first and then information about SmileVege is displayed along with the location and contact number of SmileVege. There is a Home button to return to the Home SmileVege section.<br>
