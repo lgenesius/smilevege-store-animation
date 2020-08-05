@@ -1,5 +1,5 @@
 # SmileVege Grocery Store Animation Website
-This is an animation website about grocery store. This project is for Multimedia subject(COMP7084). Finished in December 2019.
+This is an animation website about grocery store. This project is for Multimedia subject(COMP7084). Finished in December 2019. Created using Adobe Animate.
 
 ## Description
 Description of how to use the application from SmileVege:<br>
