@@ -4,7 +4,7 @@ This is an animation website about grocery store. This project is for Multimedia
 ## Description
 Description of how to use the application from SmileVege:<br>
 
-1. Open the file from SmileVege Grocery Store.fla and then press CTRL + ENTER, wait a moment because the application is loading.<br><br>
+1. Open the file from SmileVege Grocery Store.fla(if you open using Adobe Animate, then press CTRL + ENTER, wait a moment because the application is loading).<br><br>
 
 2. When the application appears, the SmileVege application will first display the Home section where there are several animations that will be run first.<br><br>
 
