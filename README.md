@@ -15,13 +15,13 @@ In this Audio section, users can listen to a song called Sky Sky Sky from Depape
 - Stop (to stop playing a song)<br>
 - Pause (to pause the song)<br>
 - Resume (to continue playing songs)<br>
-- Home (to return to the Home section)<br><br>
+- Home (to return to the Home section)<br>
 
 b. Profile<br>
-In this section is the Profile of SmileVege, when clicking on the Profile button in the Home section, the user will be displayed animations first and then information about SmileVege is displayed along with the location and contact number of SmileVege. There is a Home button to return to the Home SmileVege section.<br><br>
+In this section is the Profile of SmileVege, when clicking on the Profile button in the Home section, the user will be displayed animations first and then information about SmileVege is displayed along with the location and contact number of SmileVege. There is a Home button to return to the Home SmileVege section.<br>
 
 c. The video<br>
-In this section, when the user clicks the Video button. Users will be faced with a Promotional Video to promote SmileVege Grocery Store. The duration of this Promotional Video is 3 minutes 53 seconds. The source of the video will be informed in the Reference Link section of this documentation.<br><br>
+In this section, when the user clicks the Video button. Users will be faced with a Promotional Video to promote SmileVege Grocery Store. The duration of this Promotional Video is 3 minutes 53 seconds. The source of the video will be informed in the Reference Link section of this documentation.<br>
 
 d. List Items<br>
 In this section is a list of items that can be seen by users. When clicking on this List Items, there will be an animation first, then the user can access information from the item list in SmileVege. There will be a Carousel that users can click on the Next and Previous buttons. Each page of this List Items has 2 sections that are displayed and there are a total of 3 pages with a total of 6 items displayed. Here are some features that users can access, namely:<br>
