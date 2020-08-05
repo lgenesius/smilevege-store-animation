@@ -34,5 +34,8 @@ Home button to return to the Home section.<br><br>
 
 4. That's how you use the SmileVege Grocery Store app.<br>
 
+## Project's Image Overview
+<img src="smilevege.png">
+
 ## Technologies
 - Adobe Animate
