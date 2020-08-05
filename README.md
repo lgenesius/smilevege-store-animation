@@ -10,7 +10,7 @@ Description of how to use the application from SmileVege:<br>
 
 3. In this Home section, there are several buttons that can be clicked, namely:<br>
 a. Audio<br>
-In this Audio section, users can listen to a song called Sky Sky Sky from Depapepe. The user must first click on the Play icon for the song to run. In this Audio there are several buttons, namely:<br>
+In this Audio section, users can listen to a song called Sky Sky Sky from Depapepe. The user must first click on the Play icon for the song to run. In this Audio there are several buttons, namely:
 - Play (to play songs)<br>
 - Stop (to stop playing a song)<br>
 - Pause (to pause the song)<br>
