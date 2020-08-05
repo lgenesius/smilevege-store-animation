@@ -11,11 +11,11 @@ Description of how to use the application from SmileVege:<br>
 3. In this Home section, there are several buttons that can be clicked, namely:<br>
 a. Audio<br>
 In this Audio section, users can listen to a song called Sky Sky Sky from Depapepe. The user must first click on the Play icon for the song to run. In this Audio there are several buttons, namely:<br>
-- Play (to play songs)<br>
-- Stop (to stop playing a song)<br>
-- Pause (to pause the song)<br>
-- Resume (to continue playing songs)<br>
-- Home (to return to the Home section)<br>
+1. Play (to play songs)<br>
+2. Stop (to stop playing a song)<br>
+3. Pause (to pause the song)<br>
+4. Resume (to continue playing songs)<br>
+5. Home (to return to the Home section)<br>
 
 b. Profile<br>
 In this section is the Profile of SmileVege, when clicking on the Profile button in the Home section, the user will be displayed animations first and then information about SmileVege is displayed along with the location and contact number of SmileVege. There is a Home button to return to the Home SmileVege section.<br>
